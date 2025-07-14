@@ -86,7 +86,7 @@ Outdated software can prevent connections.
 
 **Steps:**
 
-- Visit https://ij.start.canon
+- Visit `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
 - Enter your printer model and download the latest drivers and firmware.
 - Install them on your computer and reconnect the printer to WiFi.
 
@@ -122,7 +122,7 @@ Using Easy Wireless Connect Method
 
 - Turn on your printer.
 - Press and hold the Wireless button until the WiFi lamp starts blinking.
-- Download and install the Canon PRINT Inkjet/SELPHY app on your smartphone or go to https://ij.start.canon on your PC.
+- Download and install the Canon PRINT Inkjet/SELPHY app on your smartphone or go to `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ on your PC.
 - Follow the on-screen instructions to select your WiFi network and enter the password.
 - Complete the connection process.
 
